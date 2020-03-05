@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\bamnich\\Documents\\contentIT\\Year3\\INT353 IT Project I\\TowerDefense[VersionControl]\\TowerDefense[Sprint10-8]\\Assembly-CSharp-Editor.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
